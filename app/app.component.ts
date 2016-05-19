@@ -25,7 +25,6 @@ export class Hero {
           <input [(ngModel)]="selectedHero.name" placeholder="name"/>
         </div>
       </div>
-
       `,
       styles:[`
   .selected {
